@@ -9,3 +9,5 @@ Tiny FastAPI app with unit, integration, and Playwright E2E tests, logging, and 
 .\.venv\Scripts\activate
 pip install -r requirements.txt
 uvicorn app.main:app --reload
+
+<!-- trigger docker push after new token -->
